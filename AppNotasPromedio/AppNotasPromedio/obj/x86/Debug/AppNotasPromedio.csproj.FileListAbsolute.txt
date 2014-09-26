@@ -1,0 +1,4 @@
+C:\Users\LAB104BPC17\Documents\Projects\AppNotasPromedio\AppNotasPromedio\bin\Debug\AppNotasPromedio.exe
+C:\Users\LAB104BPC17\Documents\Projects\AppNotasPromedio\AppNotasPromedio\bin\Debug\AppNotasPromedio.pdb
+C:\Users\LAB104BPC17\Documents\Projects\AppNotasPromedio\AppNotasPromedio\obj\x86\Debug\AppNotasPromedio.exe
+C:\Users\LAB104BPC17\Documents\Projects\AppNotasPromedio\AppNotasPromedio\obj\x86\Debug\AppNotasPromedio.pdb
